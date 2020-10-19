@@ -1,0 +1,66 @@
+.bard {
+    background-image: linear-gradient(to right, #227CEF, #3653B5);
+    height: 90vh;
+    color: #fff;
+}
+body, html {
+    scroll-behavior: smooth;
+}
+
+.bard img {
+    width: 80%;
+    height: 80vh;
+}
+.bluf {
+    border-top: 6px solid #3D72E7;
+    border-radius: 5px;
+}
+
+.sol {
+    background-color: #F8FBFE;
+}
+.li {
+    height: 10px !important;
+    width: 10px !important;
+    border-radius: 100% !important;
+    background-color:black !important;
+}
+.fun {
+    color: black;
+    font-size: 1em;
+}
+
+.lo {
+    background-color: #F8FBFE;
+    
+}
+.lo img{
+filter: grayscale(1.0);
+width: 50%;
+}
+
+.ig1:hover {
+    filter: grayscale(0)
+}
+.ig2:hover {
+    filter: grayscale(0)
+}
+.ig3:hover{
+    filter: grayscale(0)
+}
+.ig4:hover {
+    filter: grayscale(0)
+}
+.la:hover img {
+    color: #227CEF;
+}
+.jw {
+    width: 50;
+    height: 100px;
+    background-color: green;
+    /* background: radial-gradient(circle ,red 5, yellow 15, green 60); */
+    height: 150px;
+    width: 150px;
+    background: radial-gradient(  60% 55%, red, yellow, black);
+
+}
